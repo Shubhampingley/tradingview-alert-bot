@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trading-tournal",
+  "private_key_id": "2c808d9a24c1a209a27178d4a9c3f19815991f02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0A7KBZK5Tauyw\nTlSIRNn8lDQnyANIny93AqLHCmGKeLQghnPiHt+v+3RAr90Trey0cHN3LcZGTCxm\nFiTzzUtMoUG/k5/EE5fLry5D8ZYvL2oXgd9jbCysRXfkDoJu4bbC/+vHDDDsKNgY\nEFwBSlj/DkYYTAsLJ+XAqu0MOjf4nPmpsTIn3JS9fKLDSQMuCYU4q8slydzuXR7q\n3DnyfoMHWLkHWywpu4cbBsmPUr4Up9aKAYOTMuXfxBg7iIGmCtVBv7M0Ood5mWM0\nvqF7M4KtpVdnMykFFoEbLAdH06H2IEaJy4HAVNcFs4AIFZes1k6ehQU2SSFKzqGU\n7DFOimAPAgMBAAECggEAD+691176YO63STl9mNwDMSxK23SD+eMA9/cXQiekj3V0\nd+Z+jjZuVOycEvedyRadOzEyvwshn+oxCc4O8jcq4XrqT1L5EokrZ783CJNy1/VJ\n3g/EHlAeOhch7+Dq4XZ/zw2IqELnd5d73NFh20lhzB1Ozeq5FYEwABgAyBLFDm9s\nPd7voBIHaYiuqJ2ouV+f2jZWCjlf7RnhSiiTYBungYnotaHOEuxqerYqwNQ6Gvnz\noznEMRhDOaFhM0krxh5+SsDnDGwRoLGtlkU8qbWa0goSSUwxXtgrI3sC/xgiMZ95\ne3tzZpqugRgY+zifciOhpl9akBMrtw0y2H/tQWk1zQKBgQDmyQiIS29ySQYLY/lU\nH1zrkqpXpqeIemJzxyfAeeuMw6iVV0re57mx5HxqM++8zHVMoNbfFuNzkpdr71pW\noFnOrfUbX8mKafXij+DOXKOQZe2VtJcmye0wMYKNV1sb5W5cW/iCVF/V8JCfQUOb\n/2ZTaImejQ8SasjdBPQAJkMR+wKBgQDHrp/9yCPOdwTTvBEya83NGA/fNAssxwxT\ntUPork5Ztk7g/9A7ZT+rR64faCRyoa1FS+YbGih2QZWs88kN29zVLin5xW46Wg6x\nIKulqeHFDvGrFbECVvx5/rq72Va57v27h/ia7QYOqehrRwwfWS6VdZ+PjfEMJqm7\nCu/tfBzh/QKBgFVKHlkgZ8N4sT8sZ0xres+kmEdkU63gbNoU0+ASLrcK6Bao+AaA\n5OOVaVVmdEb12LPFDSPNNanUlxlQj7ZL9GSpbVf8gmMg3bopKg+ZtOj8gl09LE8t\nePbClVje29DnbW28n46q1/Acw5XXbMEOFiblD1cFEnjf9fOYjQQxH8BZAoGAWlSN\nvdFfGVRQE7SdFvEbrW74JyG0+HGnCusSKF1Jxl2pezFeMrBPyBzqEP0cl9q5toJq\nOtJvgWeT3SR/TEysrqduh7YfcjgxM0GzRIMARhPHkXyDkapmFo38TWQ5Tm1lzQLq\nnLMirVmBcZ43RqsiXqxSHS+53qRS3fFJrmYZ7sUCgYB5JPER5Fm1RBEQPwE1Y5dD\n8MF/UD5cw3pgQsnih1FpOo7ibyirVdeQiDhyaPtsyWMwY1C2skwn0pb3T4t6yTVW\nYLkCSXfO5AWt74QvTemLx0C1ZA6l2EUF0TNRX11wofovJ23bc9n0iUDdDsz/3UKB\nC1ha4HGbDazasMxYZa9PZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tradingjournalbot@trading-tournal.iam.gserviceaccount.com",
+  "client_id": "115554156328980649659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tradingjournalbot%40trading-tournal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
